@@ -14,6 +14,8 @@ use help:
 
 - welcome the more ctfer help me improve this script.
 
+- Attention this script only can be used in mysql
+
 中文：
 
 这是一个Python脚本，用于执行SQL盲注攻击。
@@ -22,3 +24,4 @@ use help:
 - 对于CTF竞赛，你可以使用默认的Payload，或者根据需要自行修改。
 - 要查看更多细节，你可以在终端中运行以下命令：`python sqlblind.py -h` 或 `python sqlblind.py --help`。
 - 欢迎更多的ctfer来帮助我改善这个脚本
+- 本脚本只适用mysql及相关系列
