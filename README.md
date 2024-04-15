@@ -25,3 +25,12 @@ use help:
 - 要查看更多细节，你可以在终端中运行以下命令：`python sqlblind.py -h` 或 `python sqlblind.py --help`。
 - 欢迎更多的ctfer来帮助我改善这个脚本
 - 本脚本只适用mysql及相关系列
+
+
+
+### Update log
+
+#### 20240414：更新2.0版本 基于时间 布尔 报错的三种盲注(post & get)
+
+- 部分模块存在未经测试的bug 等待完善 几天爆肝到1000行 肝不动了
+- 希望大家多提建议改善
