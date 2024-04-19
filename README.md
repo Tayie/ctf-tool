@@ -27,6 +27,8 @@ use help:
 - 本脚本只适用mysql及相关系列
 
 
+- 本脚本纯属作者个人娱乐 实测垃圾的一批 不如sqlmap 快准狠 就这样：》
+
 
 ### Update log
 
